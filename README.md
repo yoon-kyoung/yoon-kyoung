@@ -19,7 +19,7 @@
 
 ```yaml
 name    : 최윤경 (Yoon-Kyoung Choi)
-degree  : 소프트웨어융합학부 졸업
+degree  : 소프트웨어융합학부 졸업 · 디지털융합경영학과(산업공학) 복수전공
 focus   : AI / Machine Learning · Web Development
 motto   : "새로운 기술을 배우고, 코드로 문제를 해결합니다"
 ```
