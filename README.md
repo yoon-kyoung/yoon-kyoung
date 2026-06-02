@@ -67,6 +67,21 @@
 
 </div>
 
+<!-- Certifications -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 📜 자격증
+
+| 자격증 | 발급기관 |
+|:---|:---|
+| 📊 ADSP (데이터분석 준전문가) | 한국데이터산업진흥원 |
+| 💻 컴퓨터활용능력 2급 | 대한상공회의소 |
+| 📚 한국사능력검정시험 | 국사편찬위원회 |
+| 📝 워드프로세서 | 대한상공회의소 |
+| 🎨 GTQ 그래픽기술자격 1급 | 한국생산성본부 |
+
 <!-- Stats -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
