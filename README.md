@@ -80,6 +80,83 @@
 
 </div>
 
+<!-- Projects -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🚀 PROJECTS
+
+<details>
+<summary><b>🗺️ Trip Together — MBTI 기반 여행 추천 서비스</b> (2023.06 – 2023.08)</summary>
+
+<br/>
+
+| 항목 | 내용 |
+|:---|:---|
+| **목적** | MBTI 성향 기반 맞춤형 여행지 및 동행자 추천 서비스 구현 |
+| **역할** | 추천 알고리즘 설계, DB 구축, 프론트엔드 개발 |
+| **기술** | Spring Boot · Android Studio · REST API |
+| **배운점** | 데이터 기반 추천 시스템 이해, 사용자 경험 중심 기획 |
+
+</details>
+
+<details>
+<summary><b>🏥 응급 의료를 위한 5G 기반 이동형 병원 엣지 클라우드 시스템</b> (2023.06 – 2023.12)</summary>
+
+<br/>
+
+| 항목 | 내용 |
+|:---|:---|
+| **목적** | 응급 현장에서 신속·안정적 데이터 처리가 가능한 이동형 병원 시스템 구축 |
+| **역할** | 엣지 컴퓨팅 데이터 처리 모듈 개발, 실시간 데이터 전송 및 서비스 연동 |
+| **기술** | 5G 통신 · 엣지 컴퓨팅 · Python · Spring Boot |
+| **배운점** | 저지연 통신과 실시간 데이터 처리의 중요성 이해 |
+
+</details>
+
+<details>
+<summary><b>🍱 집쿡 — 집밥 및 홈베이킹 배달 서비스 앱</b> (2023.09 – 2023.12)</summary>
+
+<br/>
+
+| 항목 | 내용 |
+|:---|:---|
+| **목적** | 위치 기반 개인 음식 공유·배달 플랫폼 개발 |
+| **역할** | UI 개발, 위치 검색 기능 구현, 주문·결제 프로세스 설계 |
+| **기술** | Android Studio · Firebase · Google Maps API |
+| **배운점** | 서비스 기획 역량 강화 |
+
+</details>
+
+<details>
+<summary><b>✍️ 영어학습을 위한 AI 기반 손글씨 인식</b> (2024.09 – 2025.06)</summary>
+
+<br/>
+
+| 항목 | 내용 |
+|:---|:---|
+| **목적** | 손글씨 인식을 활용한 영어 단어·문장 학습 서비스 개발 |
+| **역할** | 기획, 데이터 전처리, AI 모델 구현, 프론트엔드 개발 |
+| **기술** | Android Studio · TensorFlow Lite |
+| **배운점** | 모바일 AI 최적화 경험, 사용자 친화적 학습 UI 설계 |
+
+</details>
+
+<details>
+<summary><b>📵 Focus Well — 디지털 디톡스 앱</b> (2025.03 – 2025.06)</summary>
+
+<br/>
+
+| 항목 | 내용 |
+|:---|:---|
+| **목적** | 잠들기 전 휴대폰 사용을 줄이고 올바른 수면 습관 형성을 돕는 앱 개발 |
+| **역할** | 데이터 분석을 통한 불면증 원인 도출, 앱 기능 및 챌린지 기획·개발 |
+| **기술** | Python (데이터 분석) · Android Studio (앱 개발) |
+| **배운점** | 데이터 기반 문제 해결 능력, 피드백 수렴 및 사용자 경험 개선 |
+
+</details>
+
 <!-- Certifications -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
