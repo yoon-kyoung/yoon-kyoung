@@ -67,17 +67,6 @@
 
 </div>
 
-<!-- Trophy -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
-<br/>
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoon-kyoung&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
 <!-- Stats -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
