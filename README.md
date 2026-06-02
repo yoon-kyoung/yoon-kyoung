@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yoon-Kyoung%20Choi&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Web%20Developer&descAlignY=55&descSize=18&fontFamily=Fredoka+One" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yoon-Kyoung%20Choi&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Web%20Developer&descAlignY=58&descSize=20&fontFamily=Pacifico" width="100%"/>
 
 <div align="center">
 
