@@ -39,6 +39,19 @@
 
 <br clear="right"/>
 
+<!-- Core Competencies -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 💡 CORE COMPETENCIES
+
+| 역량 | 설명 |
+|:---:|:---|
+| 🤖 **AI 기반 문제해결** | 현장에서 발견한 문제를 데이터와 생성형 AI를 활용해 직접 서비스로 구현할 수 있는 역량 |
+| 📋 **서비스 기획** | 부서 간 협업, 리소스 조율, 프로젝트 일정관리 등 서비스 론칭까지의 전 과정을 체계적으로 관리하고 주도할 수 있음 |
+| 📱 **서비스 개발** | 안드로이드 스튜디오 기반 앱 개발 경험과 AI 기능 구현 역량을 바탕으로 사용자 중심의 서비스 개발이 가능 |
+
 <!-- Skills -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
